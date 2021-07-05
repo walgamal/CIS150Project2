@@ -1,0 +1,15 @@
+1  X B C X 
+2  A B C D 
+3  A B C X 
+4  A B C D 
+5  A B C D 
+6  A B C X 
+7  A B C D 
+8  A B X D 
+9  A B C D 
+10 A B C D 
+11 A B C D 
+12 A X C D 
+13 A B C D 
+14 A B C D 
+15 X B C D 
